@@ -202,7 +202,7 @@ ymaps.ready(function () {
                     // Картинка балуна
                     balloonImageHref: 'zerkov.png',
                     // Смещение картинки балуна
-                    balloonImageOffset: [0, 0],
+                    balloonImageOffset: [-5, 60],
                     // Размеры картинки балуна
                     balloonImageSize: [350, 180],
                     
