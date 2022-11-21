@@ -169,7 +169,7 @@ ymaps.ready(function () {
                     // Задаем макет балуна - пользовательская картинка с контентом
                     balloonLayout: "default#imageWithContent",
                     // Картинка балуна
-                    balloonImageHref: 'pamyatnik.png',
+                    balloonImageHref: 'pamyatnik1.png',
                     // Смещение картинки балуна
                     balloonImageOffset: [-5, -60],
                     // Размеры картинки балуна
