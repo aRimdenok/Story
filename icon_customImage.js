@@ -173,7 +173,7 @@ ymaps.ready(function () {
                     // Смещение картинки балуна
                     balloonImageOffset: [-5, -60],
                     // Размеры картинки балуна
-                    balloonImageSize: [250, 250],
+                    balloonImageSize: [200, 250],
                     
                     
                     
